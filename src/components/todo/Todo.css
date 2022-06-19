@@ -1,0 +1,17 @@
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fee;
+  margin-top: 10px;
+  height: 30px;
+  padding: 0 0.5rem;
+  height: 50px;
+}
+
+.item-btn {
+  color: rgb(126, 29, 218);
+  border: none;
+  background: transparent;
+  font-weight: bold;
+}

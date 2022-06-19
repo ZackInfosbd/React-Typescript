@@ -1,0 +1,8 @@
+.list-container {
+  width: 480px;
+  background: white;
+  padding: 0.5rem;
+  list-style: none;
+  height: 420px;
+  align-items: center;
+}

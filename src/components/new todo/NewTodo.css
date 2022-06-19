@@ -1,0 +1,29 @@
+.form-container {
+  width: 480px;
+  background: white;
+  padding: 0.5rem;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#input-text {
+  width: 410px;
+  height: 35px;
+  border: none;
+}
+
+#input-text:focus {
+  outline: none !important;
+  border-color: rgb(126, 29, 218);
+  box-shadow: 0 0 3px rgb(126, 29, 218);
+}
+
+.btn {
+  height: 30px;
+  width: 60px;
+  border: none;
+  background: rgb(126, 29, 218);
+  color: #fee;
+}
