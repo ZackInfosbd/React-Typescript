@@ -19,7 +19,7 @@ const NewTodo: React.FC<NewTodoProps> = ({ todoHandler }) => {
       <input
         id="input-text"
         type="text"
-        placeholder="write your todo item"
+        placeholder="Write your todo here... "
         ref={textInputRef}
       />
       <button className="btn" type="submit">
